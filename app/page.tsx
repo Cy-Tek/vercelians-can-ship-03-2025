@@ -5,7 +5,7 @@ import { NotFound } from "./components/not-found";
 import { Profile } from "./components/profile";
 import { getGithubProfile } from "./lib/get-github-profile";
 
-const yourGithubUsername = "";
+const yourGithubUsername = "Cy-Tek";
 
 export default async function Home({
   searchParams,
